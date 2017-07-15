@@ -1,0 +1,19 @@
+{
+  "name": "eloader_example",
+  "version": "1.0.0",
+  "description": "Example usage: eloader",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "eloader",
+    "nodejs"
+  ],
+  "author": "Eliézer Augusto de Moraes Andrade",
+  "license": "MIT",
+  "dependencies": {
+    "eloader": "^1.0.1",
+    "express": "^4.15.3"
+  }
+}
